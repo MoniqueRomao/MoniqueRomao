@@ -6,7 +6,8 @@ Já trabalhei com **Node.js, TypeScript, PHP, PostgreSQL, MongoDB e Docker**, e 
 
 Agora estou levando essa base para a **Inteligência Artificial**: estudo Python para IA (LLMs, RAG, agentes e Machine Learning) e back-end com Java e Spring Boot. Cada etapa vira um projeto aqui, então acompanhe os repositórios fixados.
 
-Fora do código, gosto de [um hobby ou interesse seu].
+Fora do código, gosto de acompanhar os avanços da ciência, estudar filosofia e história por conta própria e jogar videogame.
+
 
 ### Vamos conversar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moniqueromao)
