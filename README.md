@@ -1,26 +1,22 @@
-### Olá! Eu sou Monique Romão 👋
-<br>
-<br>
-<div align="center">
-  <a href="https://github.com/MoniqueRomao">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MoniqueRomao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueRomao&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Monique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Monique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Monique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Monique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
- ##
-<br>
+# Olá, eu sou a Monique 👋
 
-<div>
-  <a href="https://instagram.com/moniqueromao_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:romaomonique4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/monique-romão-89b03a206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/MoniqueRomao/MoniqueRomao/blob/output/github-contribution-grid-snake.svg)
-</div>
+Desenvolvedora back-end com 3+ anos de experiência em APIs, integrações entre sistemas e bancos de dados.  
+Agora estou levando essa base para a **Inteligência Artificial**.
+
+### 🔧 Tecnologias
+**Back-end:** Node.js · TypeScript · PHP · APIs REST  
+**Dados:** PostgreSQL · MongoDB · SQL  
+**Ferramentas:** Docker · Git · Jest · Scrum/Kanban
+
+### 📚 Estudando agora
+- **IA com Python:** LLMs, RAG, agentes com LangChain, Machine Learning
+- **Back-end com Java:** POO, estruturas de dados, Spring Boot
+
+### 🚀 Projetos em destaque
+| Projeto | O que é | Stack |
+|---|---|---|
+| [nome-do-projeto](link) | descrição em uma linha | Node.js, PostgreSQL |
+| _Em breve:_ Chatbot com RAG | responde perguntas sobre documentos | Python, LangChain |
+
+### 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/moniqueromao) · romaomonique4@gmail.com
