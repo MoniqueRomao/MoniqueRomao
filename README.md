@@ -9,5 +9,5 @@ Agora estou levando essa base para a **Inteligência Artificial**: estudo Python
 Fora do código, gosto de acompanhar os avanços da ciência, estudar filosofia e história por conta própria e jogar videogame.
 
 
-### Vamos conversar!
+#### Vamos conversar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moniqueromao)
