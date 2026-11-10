@@ -1,4 +1,4 @@
-# Oi, eu sou a Monique <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">
+### Oi, eu sou a Monique <img src="blob-wave.gif" width="24px">
 
 Sou desenvolvedora back-end no Rio de Janeiro. Há mais de 3 anos construo APIs, integrações entre sistemas e automações que tiram trabalho manual das equipes.
 
